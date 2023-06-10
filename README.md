@@ -1,5 +1,5 @@
 ### Overview
-# TravelUI
+# Travel App UI
 
 This is a minimal UI for travelling app, consists with carousels, navigation bars, multiple screens. This is developed by using dart language.
 
@@ -9,10 +9,6 @@ This is a minimal UI for travelling app, consists with carousels, navigation bar
 <img src="/img/4.png" width="30%" height="30%">.
 <img src="/img/5.png" width="30%" height="30%">.
 <img src="/img/6.png" width="30%" height="30%">.
-
-## Flutter CustomPaint Demo
-
-This Flutter project demonstrates the usage of different paint commands in Flutter's CustomPaint widget. CustomPaint allows you to create custom graphics and animations by defining a custom painter.
 
 ### Getting Started
 
