@@ -1,6 +1,6 @@
-### Overview
 # Travel App UI
 
+### Overview
 This is a minimal UI for travelling app, consists with carousels, navigation bars, multiple screens. This is developed by using dart language.
 
 <img src="/img/1.png" width="30%" height="30%" style="margin-right:20px">.
