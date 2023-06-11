@@ -32,12 +32,4 @@ flutter pub get
 
 flutter run
 
-### Resources
-
-The following resources provide more information about Flutter and the concepts used in this project:
-
-- [Flutter Documentation](https://flutter.dev/docs)
-- [CustomPaint class](https://api.flutter.dev/flutter/rendering/CustomPaint-class.html)
-- [CustomPainter class](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)
-
 Happy Coding :)
